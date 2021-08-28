@@ -129,8 +129,8 @@
     Формула среднегармонической величины: ![equation][4]
 
     
-[1]: https://latex.codecogs.com/gif.latex?sqrt%281/n%5Ccdot%28x_1%5E2&plus;x_2%5E2&plus;...&plus;x_n%5E2%29%29
-[2]: https://latex.codecogs.com/gif.latex?%5Csqrt%5Bn%5D%28x_1%5Ccdot%20x_2%5Ccdot%20...%20%5Ccdot%20x_n%29
-[3]: https://latex.codecogs.com/gif.latex?C%5Bi%2Cj%5D%3DA%5Bi%2Cj%5D%5Ccdot%28B%5Bj%5D%29%5Ei
-[4]: https://latex.codecogs.com/gif.latex?%5Cfrac%7Bn%7D%7B%5Cfrac%7B1%7D%7Bx_1%7D&plus;%5Cfrac%7B1%7D%7Bx_2%7D%20&plus;%20...%20&plus;%5Cfrac%7B1%7D%7Bx_n%7D%20%7D
-[5]: https://latex.codecogs.com/gif.latex?%5Calpha%3Darccos%28%5Cfrac%7B%7Ca_x%20%5Ccdot%20b_x%20&plus;%20a_y%20%5Ccdot%20b_y%7C%7D%7B%5Csqrt%28a_x%5E2&plus;a_y%5E2%29%20%5Ccdot%20%5Csqrt%28b_x%5E2&plus;b_y%5E2%29%7D%29
+[1]: https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BPink%7Dsqrt%281/n%5Ccdot%28x_1%5E2&plus;x_2%5E2&plus;...&plus;x_n%5E2%29%29%7D
+[2]: https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BPink%7D%5Csqrt%5Bn%5D%28x_1%5Ccdot%20x_2%5Ccdot%20...%20%5Ccdot%20x_n%29%7D
+[3]: https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BPink%7DC%5Bi%2Cj%5D%3DA%5Bi%2Cj%5D%5Ccdot%28B%5Bj%5D%29%5Ei%7D
+[4]: https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BPink%7D%5Cfrac%7Bn%7D%7B%5Cfrac%7B1%7D%7Bx_1%7D&plus;%5Cfrac%7B1%7D%7Bx_2%7D%20&plus;%20...%20&plus;%5Cfrac%7B1%7D%7Bx_n%7D%20%7D%7D
+[5]: https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BPink%7D%5Calpha%3Darccos%28%5Cfrac%7B%7Ca_x%20%5Ccdot%20b_x%20&plus;%20a_y%20%5Ccdot%20b_y%7C%7D%7B%5Csqrt%28a_x%5E2&plus;a_y%5E2%29%20%5Ccdot%20%5Csqrt%28b_x%5E2&plus;b_y%5E2%29%7D%29%7D
